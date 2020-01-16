@@ -1,0 +1,57 @@
+body {
+  /* padding: 30px;
+  margin: 30px; */
+  width: 990px;
+  height: ‭1510‬px;
+}
+
+header {
+  /* margin: 30px; */
+  height: 130px;
+
+}
+
+header img{
+float: left;
+margin: 15px;
+}
+
+nav {
+  text-align: center;
+  width: 150px;
+  height: 70px;
+  float: left;
+  /* margin-top:  */
+  margin: 15px;
+}
+
+div {
+
+}
+
+div image {
+
+}
+
+article {
+  margin: 15px;
+  float: left;
+}
+
+main img{
+  height: 480px;
+  width: 465px;
+  margin: 15px;
+}
+
+figure {
+  height: 480px;
+  width: 465px;
+  margin: 15px;
+  overflow: scroll;
+  color: whitesmoke;
+}
+
+footer{
+
+}
